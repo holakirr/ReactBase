@@ -1,0 +1,6 @@
+Configuration = {
+    "ApiBaseUrl": "https://prod:45021",
+    "ApiBaseVersion": "v1.0",
+    "version": "1.0.0.0",
+    "build": "insert-build-number-here",
+}

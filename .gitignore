@@ -1,0 +1,8 @@
+/node_modules/
+/build/
+*storybook-build*
+
+package-lock.json
+webpack-stats.json
+
+**/.history/**

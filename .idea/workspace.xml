@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a8afa00-bf05-4ac6-a710-3c7f893d8d9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitizen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.fake.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.prod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/entry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/fake.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakes/data/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakes/sagas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakes/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakes/services/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servers/fake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configuration/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/App/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/App/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/consts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/lazily.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/popups/close.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/popups/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/popups/open.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/sagaRunner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/suggests/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/suggests/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/suggests/names.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sagas/suggests/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/popups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/routing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectors/suggests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/docs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/initialState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/popups/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/suggests/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/symbiotes/suggests/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/default.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-component-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-component-result-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-component-result-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-component-result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-container-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-container-result-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/create-container-result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/extensions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/fakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/naming1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/naming2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/naming3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/react-tools-extensions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/storybook_groups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/storybook_props.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/storybook_source.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/images/vscode-extensions-install.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/imports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/CodeStandarts/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Components/imports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/addons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/imports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.dev.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.fake.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.prod.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tntd0rfc1SDZkfX8ECnE3ohSvA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a8afa00-bf05-4ac6-a710-3c7f893d8d9a" name="Default Changelist" comment="" />
+      <created>1623416767134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623416767134</updated>
+      <workItem from="1623416770417" duration="462000" />
+      <workItem from="1623417405958" duration="851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adds all base" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds all base" />
+  </component>
+</project>
